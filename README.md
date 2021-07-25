@@ -21,5 +21,4 @@ Dr. Eduardo Zúñiga León (Email: pgen10@hotmail.com).
 # Al final del curso se otorgará constancia. <img src="https://raw.githubusercontent.com/eduardo1011/curso_08_2021/main/index.png" width = 7%>
 
 ### Dudas <img src="https://raw.githubusercontent.com/eduardo1011/curso_08_2021/main/help--v1.png" width = 7%>
-Dr. 
-pgen10@hotmail.com
+Dr. Eduardo Zúñiga León (Email: pgen10@hotmail.com).

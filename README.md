@@ -3,7 +3,7 @@
 ### CURSO DE BIOINFORMÁTICA
 # Introducción a Biopython y Bioservices
 
-* #### Consulta el programa del curso [aquí](https://raw.githubusercontent.com/eduardo1011/curso_08_2021/main/Programa_Curso_Biopython_Bioservices.pdf).
+* #### Consulta el programa y detalles del curso [aquí](https://raw.githubusercontent.com/eduardo1011/curso_08_2021/main/Programa_Curso_Biopython_Bioservices.pdf).
 
 ### Si estás interesado en tomar el curso:
 

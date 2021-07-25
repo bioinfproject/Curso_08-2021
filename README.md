@@ -13,6 +13,6 @@
 
 2. ####  Realiza el pago del curso siguiendo las instrucciones [aquí](https://raw.githubusercontent.com/eduardo1011/curso_08_2021/main/Instrucciones_de_pago_para_curso_UAM.pdf).
 
-# Al final del curso se otorgará constancia. <img src="https://raw.githubusercontent.com/eduardo1011/curso_08_2021/main/index.png" width = 5%>
+# Al final del curso se otorgará constancia. <img src="https://raw.githubusercontent.com/eduardo1011/curso_08_2021/main/index.png" width = 10%>
 
 

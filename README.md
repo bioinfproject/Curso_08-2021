@@ -5,7 +5,7 @@
 
 * #### Consulta el programa y detalles del curso [aquí](https://raw.githubusercontent.com/eduardo1011/curso_08_2021/main/Programa_Curso_Biopython_Bioservices.pdf).
 
-### Si estás interesado en tomar el curso:
+### Si estás interesado en tomar el curso realiza los siguientes pasos:
 
 1. #### Envia tus datos (como muestra la ficha) al correo: pgen10@hotmail.com
 

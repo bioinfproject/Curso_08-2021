@@ -7,7 +7,7 @@
 
 ### Si estás interesado en tomar el curso realiza los siguientes pasos:
 
-1. #### Envia tus datos (como muestra la ficha) al correo: pgen10@hotmail.com
+1. #### Envia tus datos (como muestra la ficha) al correo: pgen10@hotmail.com para hacer tu registro.
 
 ## <img src="https://raw.githubusercontent.com/eduardo1011/curso_08_2021/main/info_general.jpg" width = 40%>
 

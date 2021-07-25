@@ -1,11 +1,11 @@
 # <img src="https://raw.githubusercontent.com/eduardo1011/curso_08_2021/main/encabezado.jpg" width = 70%>
 
+### CURSO DE BIOINFORMÁTICA
+
 ORGANIZADORES  
 Dr. Esteban Barranco Florido (Email: barranco@correo.xoc.uam.mx).  
 Dr. Eduardo Zúñiga León (Email: pgen10@hotmail.com).
 
-
-### CURSO DE BIOINFORMÁTICA
 # Introducción a Biopython y Bioservices
 
 * #### Consulta el programa y detalles del curso [aquí](https://raw.githubusercontent.com/eduardo1011/curso_08_2021/main/Programa_Curso_Biopython_Bioservices.pdf).

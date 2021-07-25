@@ -7,4 +7,4 @@
 
 ### Si estás interesado en tomar el curso:
 
-* #### Envia los siguientes datos al correo: [email](pgen10@hotmail.com)
+* #### Envia los siguientes datos al correo: pgen10@hotmail.com

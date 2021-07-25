@@ -1,4 +1,5 @@
-<img src="https://raw.githubusercontent.com/eduardo1011/curso_08_2021/main/encabezado.jpg" width = 70%>
+#n<img src="https://raw.githubusercontent.com/eduardo1011/curso_08_2021/main/encabezado.jpg" width = 100%>
+
 ### CURSO DE BIOINFORMÁTICA
 # Introducción a Biopython y Bioservices
 

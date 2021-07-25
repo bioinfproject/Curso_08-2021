@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/eduardo1011/curso_08_2021/main/encabezado.jpg" width = 70%>
 
-ORGANIZADORES
-Dr. Esteban Barranco Florido (Email: barranco@correo.xoc.uam.mx).
+ORGANIZADORES  
+Dr. Esteban Barranco Florido (Email: barranco@correo.xoc.uam.mx).  
 Dr. Eduardo Zúñiga León (Email: pgen10@hotmail.com).
 
 
